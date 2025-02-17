@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71dc08a8-87ed-4a72-9d28-dedfb8b050e6" name="Changes" comment="202408011035">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineVision/lightning_logs/version_0/checkpoints/epoch=14-step=1470.ckpt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HolmesAmzish"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:HolmesAmzish/MachineLearning.git",
+    "accountId": "5d492d73-d625-4ff5-bb70-48c391a4fb2f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2k0qx9aaLJLRXIFcOiHlBa8ge1D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.2.executor": "Run",
+    "Python.MNIST.executor": "Run",
+    "Python.ReLU.executor": "Run",
+    "Python.cnn_mnist.executor": "Run",
+    "Python.cnn_mnist_new.executor": "Run",
+    "Python.collage-admition-sklearn.executor": "Run",
+    "Python.collage-admition.executor": "Run",
+    "Python.display_image.executor": "Run",
+    "Python.display_mnist_data.executor": "Run",
+    "Python.face_recognition.executor": "Run",
+    "Python.fashion_mnist_cnn.executor": "Run",
+    "Python.fruit_recognition.executor": "Run",
+    "Python.fruit_recognition_train.executor": "Run",
+    "Python.function_plot.executor": "Run",
+    "Python.knn_riris_classification.executor": "Run",
+    "Python.loss-function.executor": "Run",
+    "Python.mlp_mnist.executor": "Run",
+    "Python.multiple-variables.executor": "Run",
+    "Python.neural_network.executor": "Run",
+    "Python.neural_network_2.executor": "Run",
+    "Python.neural_network_mnist.executor": "Run",
+    "Python.one-variable.executor": "Run",
+    "Python.points_generator.executor": "Run",
+    "Python.pytorch_mnist.executor": "Run",
+    "Python.scikit-learn-solution.executor": "Run",
+    "Python.sigmoid-function.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.train_face_recognition.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Holme/OneDrive/Markdown-Document/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Milton-Code\MachineLearning\LinerRegression" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\LearningProjects\MachineLearning\DeepLearning" />
+      <recent name="E:\LearningProjects\MachineLearning\DeepLearning\data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71dc08a8-87ed-4a72-9d28-dedfb8b050e6" name="Changes" comment="" />
+      <created>1722431087271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722431087271</updated>
+      <workItem from="1722431097273" duration="424000" />
+      <workItem from="1722431533966" duration="3652000" />
+      <workItem from="1722439189273" duration="108000" />
+      <workItem from="1722479504005" duration="1709000" />
+      <workItem from="1722517550718" duration="6062000" />
+      <workItem from="1722566681646" duration="5000" />
+      <workItem from="1722594271586" duration="5000" />
+      <workItem from="1722755130880" duration="8525000" />
+      <workItem from="1722800928902" duration="449000" />
+      <workItem from="1722825545767" duration="3584000" />
+      <workItem from="1722841087435" duration="2114000" />
+      <workItem from="1722846779949" duration="12424000" />
+      <workItem from="1722934828822" duration="692000" />
+      <workItem from="1723015683102" duration="335000" />
+      <workItem from="1723026744670" duration="578000" />
+      <workItem from="1723027668866" duration="1900000" />
+      <workItem from="1723466447578" duration="5191000" />
+      <workItem from="1723477729279" duration="997000" />
+      <workItem from="1723516165578" duration="602000" />
+      <workItem from="1723526038338" duration="1235000" />
+      <workItem from="1723527291391" duration="4045000" />
+      <workItem from="1723606302261" duration="2229000" />
+      <workItem from="1723698689316" duration="22113000" />
+      <workItem from="1723731433809" duration="450000" />
+      <workItem from="1723732231903" duration="31000" />
+      <workItem from="1724157936034" duration="1690000" />
+      <workItem from="1724314596290" duration="6873000" />
+      <workItem from="1724418966046" duration="12000" />
+      <workItem from="1724556104633" duration="3000" />
+      <workItem from="1725976870159" duration="1000" />
+      <workItem from="1726190576633" duration="192000" />
+      <workItem from="1727184890013" duration="673000" />
+      <workItem from="1727331865938" duration="440000" />
+      <workItem from="1727521293325" duration="1000" />
+      <workItem from="1727771295980" duration="216000" />
+      <workItem from="1728011336054" duration="79000" />
+      <workItem from="1728011441122" duration="159000" />
+      <workItem from="1728011614017" duration="856000" />
+      <workItem from="1728538627769" duration="2882000" />
+      <workItem from="1728649402389" duration="23000" />
+      <workItem from="1728822349249" duration="658000" />
+      <workItem from="1730358109163" duration="3888000" />
+      <workItem from="1730378137621" duration="257000" />
+      <workItem from="1730475442931" duration="282000" />
+      <workItem from="1732608307300" duration="2272000" />
+      <workItem from="1733056191507" duration="695000" />
+      <workItem from="1733121723514" duration="36000" />
+      <workItem from="1733804772661" duration="431000" />
+      <workItem from="1735721044133" duration="2232000" />
+      <workItem from="1737491172452" duration="825000" />
+      <workItem from="1737522021602" duration="634000" />
+      <workItem from="1737522763234" duration="4985000" />
+      <workItem from="1737553099902" duration="817000" />
+      <workItem from="1737600207836" duration="497000" />
+      <workItem from="1737817025087" duration="1771000" />
+      <workItem from="1737865496713" duration="6353000" />
+      <workItem from="1737966708812" duration="1880000" />
+      <workItem from="1738498353080" duration="3650000" />
+      <workItem from="1738548939785" duration="7901000" />
+      <workItem from="1738591495531" duration="1974000" />
+      <workItem from="1738670930231" duration="14000" />
+      <workItem from="1738730152264" duration="20000" />
+      <workItem from="1738818833184" duration="1682000" />
+      <workItem from="1738820815700" duration="349000" />
+      <workItem from="1738835628921" duration="1524000" />
+      <workItem from="1738903032519" duration="4656000" />
+      <workItem from="1738919940782" duration="3257000" />
+      <workItem from="1739068306753" duration="780000" />
+      <workItem from="1739530043225" duration="1191000" />
+      <workItem from="1739602109366" duration="7000" />
+      <workItem from="1739717092923" duration="736000" />
+      <workItem from="1739770097168" duration="1457000" />
+      <workItem from="1739772022369" duration="12732000" />
+    </task>
+    <task id="LOCAL-00001" summary="202408011035">
+      <option name="closed" value="true" />
+      <created>1722479765837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722479765837</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="202408011035" />
+    <option name="LAST_COMMIT_MESSAGE" value="202408011035" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MachineLearning$neural_network_2.coverage" NAME="neural_network_2 Coverage Results" MODIFIED="1723731567803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNerwork" />
+    <SUITE FILE_PATH="coverage/MachineLearning$function_plot.coverage" NAME="function_plot Coverage Results" MODIFIED="1737871513371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogisticRegression" />
+    <SUITE FILE_PATH="coverage/MachineLearning$collage_admition_sklearn.coverage" NAME="collage-admition-sklearn Coverage Results" MODIFIED="1737874654737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogisticRegression" />
+    <SUITE FILE_PATH="coverage/MachineLearning$train_face_recognition.coverage" NAME="train_face_recognition Coverage Results" MODIFIED="1739774829911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineVision" />
+    <SUITE FILE_PATH="coverage/MachineLearning$MNIST.coverage" NAME="MNIST Coverage Results" MODIFIED="1730358693523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
+    <SUITE FILE_PATH="coverage/MachineLearning$display_image.coverage" NAME="display_image Coverage Results" MODIFIED="1739771474162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineVision/OpenCV" />
+    <SUITE FILE_PATH="coverage/MachineLearning$loss_function.coverage" NAME="loss-function Coverage Results" MODIFIED="1722789577261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogisticRegression" />
+    <SUITE FILE_PATH="coverage/MachineLearning$ReLU.coverage" NAME="ReLU Coverage Results" MODIFIED="1723722612221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNerwork" />
+    <SUITE FILE_PATH="coverage/MachineLearning$fruit_recognition_train.coverage" NAME="fruit_recognition_train Coverage Results" MODIFIED="1739779773034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineVision" />
+    <SUITE FILE_PATH="coverage/MachineLearning$neural_network.coverage" NAME="neural_network Coverage Results" MODIFIED="1723707243250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNerwork" />
+    <SUITE FILE_PATH="coverage/MachineLearning$pytorch_mnist.coverage" NAME="pytorch_mnist Coverage Results" MODIFIED="1738549115784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
+    <SUITE FILE_PATH="coverage/MachineLearning$cnn_mnist_new.coverage" NAME="cnn_mnist_new Coverage Results" MODIFIED="1738500739441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
+    <SUITE FILE_PATH="coverage/MachineLearning$multiple_variables.coverage" NAME="multiple-variables Coverage Results" MODIFIED="1737529205042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinerRegression" />
+    <SUITE FILE_PATH="coverage/MachineLearning$face_recognition.coverage" NAME="face_recognition Coverage Results" MODIFIED="1739774915129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineVision" />
+    <SUITE FILE_PATH="coverage/MachineLearning$fruit_recognition.coverage" NAME="fruit_recognition Coverage Results" MODIFIED="1739775159879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineVision" />
+    <SUITE FILE_PATH="coverage/MachineLearning$fashion_mnist_cnn.coverage" NAME="fashion_mnist_cnn Coverage Results" MODIFIED="1738905230794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
+    <SUITE FILE_PATH="coverage/MachineLearning$collage_admition.coverage" NAME="collage-admition Coverage Results" MODIFIED="1722869066326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogisticRegression" />
+    <SUITE FILE_PATH="coverage/MachineLearning$neural_network_mnist.coverage" NAME="neural_network_mnist Coverage Results" MODIFIED="1738499898139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNerwork" />
+    <SUITE FILE_PATH="coverage/MachineLearning$2.coverage" NAME="2 Coverage Results" MODIFIED="1733804870644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNearestNeighbors" />
+    <SUITE FILE_PATH="coverage/MachineLearning$mlp_mnist.coverage" NAME="mlp_mnist Coverage Results" MODIFIED="1738498676626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
+    <SUITE FILE_PATH="coverage/MachineLearning$knn_riris_classification.coverage" NAME="knn_riris_classification Coverage Results" MODIFIED="1733804786964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNearestNeighbors" />
+    <SUITE FILE_PATH="coverage/MachineLearning$scikit_learn_solution.coverage" NAME="scikit-learn-solution Coverage Results" MODIFIED="1737528237198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinerRegression" />
+    <SUITE FILE_PATH="coverage/MachineLearning$one_variable.coverage" NAME="one-variable Coverage Results" MODIFIED="1722788757115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinerRegression" />
+    <SUITE FILE_PATH="coverage/MachineLearning$sigmoid_function.coverage" NAME="sigmoid-function Coverage Results" MODIFIED="1737818328740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogisticRegression" />
+    <SUITE FILE_PATH="coverage/MachineLearning$cnn_mnist.coverage" NAME="cnn_mnist Coverage Results" MODIFIED="1738498435627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
+    <SUITE FILE_PATH="coverage/MachineLearning$test.coverage" NAME="test Coverage Results" MODIFIED="1732609319494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KMeans" />
+    <SUITE FILE_PATH="coverage/MachineLearning$points_generator.coverage" NAME="points_generator Coverage Results" MODIFIED="1723721781272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNerwork" />
+    <SUITE FILE_PATH="coverage/MachineLearning$display_mnist_data.coverage" NAME="display_mnist_data Coverage Results" MODIFIED="1738499475398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
+  </component>
+</project>
