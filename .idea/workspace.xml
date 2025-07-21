@@ -5,8 +5,127 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71dc08a8-87ed-4a72-9d28-dedfb8b050e6" name="Changes" comment="202408011035">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvolutionalNerualNetwork/MNIST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvolutionalNerualNetwork/data/MNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvolutionalNerualNetwork/data/MNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvolutionalNerualNetwork/data/MNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvolutionalNerualNetwork/data/MNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvolutionalNerualNetwork/data/MNIST/raw/train-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvolutionalNerualNetwork/data/MNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvolutionalNerualNetwork/data/MNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvolutionalNerualNetwork/data/MNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/FasterRCNN-PlantDoc.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/YOLOv8-PlantDoc.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/dataset-prepration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc2/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc3/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc4/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc5/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/F1_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/PR_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/P_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/R_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/confusion_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/confusion_matrix_normalized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/events.out.tfevents.1752931731.paradiso.28702.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/labels_correlogram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/train_batch0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/train_batch1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/train_batch2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/train_batch702.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/train_batch703.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/train_batch704.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/val_batch0_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/val_batch0_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/val_batch1_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/val_batch1_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/val_batch2_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc6/val_batch2_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/F1_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/PR_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/P_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/R_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/confusion_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/confusion_matrix_normalized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/events.out.tfevents.1752932268.paradiso.28702.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/labels_correlogram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/train_batch0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/train_batch1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/train_batch1170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/train_batch1171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/train_batch1172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/train_batch2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/val_batch0_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/val_batch0_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/val_batch1_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/val_batch1_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/val_batch2_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/PlantDoc/yolo-plantdoc/yolov8n-plantdoc7/val_batch2_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/FasterRCNN-VOC2007.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/YOLOv8-VOC2007.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/F1_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/PR_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/P_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/R_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/confusion_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/confusion_matrix_normalized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/val_batch0_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/val_batch0_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/val_batch1_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/val_batch1_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/val_batch2_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/runs/detect/val/val_batch2_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/F1_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/PR_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/P_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/R_curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/confusion_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/confusion_matrix_normalized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/events.out.tfevents.1752904958.paradiso.333299.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/labels_correlogram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/train_batch0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/train_batch1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/train_batch2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/train_batch4990.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/train_batch4991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/train_batch4992.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/val_batch0_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/val_batch0_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/val_batch1_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/val_batch1_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/val_batch2_labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/VOC2007/yolo_ablation/yolov8n-voc/val_batch2_pred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/convert-xml2txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionForests/house-prices-prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionForests/house-prices-prediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/OpenCV/display_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/OpenCV/display_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/face_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/face_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/fruit-recognition-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/fruit-recognition-2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/fruit-recognition-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/fruit-recognition-3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/fruit-recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/fruit-recognition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/fruit_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/fruit_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/fruit_recognition_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/fruit_recognition_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/lightning_logs/version_0/checkpoints/epoch=14-step=1470.ckpt" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/lightning_logs/version_0/checkpoints/epoch=14-step=1470.ckpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/lightning_logs/version_0/hparams.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/lightning_logs/version_0/hparams.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/lightning_logs/version_0/metrics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/lightning_logs/version_0/metrics.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineVision/train_face_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassification/train_face_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plot/seaborn-iris-data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plot/seaborn-iris-data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +135,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -69,6 +188,7 @@
     &quot;Python.cnn_mnist_new.executor&quot;: &quot;Run&quot;,
     &quot;Python.collage-admition-sklearn.executor&quot;: &quot;Run&quot;,
     &quot;Python.collage-admition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dataset-prepration.executor&quot;: &quot;Run&quot;,
     &quot;Python.display_image.executor&quot;: &quot;Run&quot;,
     &quot;Python.display_mnist_data.executor&quot;: &quot;Run&quot;,
     &quot;Python.face_recognition.executor&quot;: &quot;Run&quot;,
@@ -94,7 +214,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/cacc/anaconda3/envs/ml/bin/python3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/cacc/Repositories/ML-Notes/ObjectDetection&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -106,11 +226,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ObjectDetection" />
       <recent name="E:\Milton-Code\MachineLearning\LinerRegression" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ObjectDetection/PlantDoc" />
+      <recent name="$PROJECT_DIR$/ObjectDetection/VOC2007/datasets" />
+      <recent name="$PROJECT_DIR$/ObjectDetection/VOC2007" />
+      <recent name="$PROJECT_DIR$/ObjectDetection/datasets" />
       <recent name="E:\LearningProjects\MachineLearning\DeepLearning" />
-      <recent name="E:\LearningProjects\MachineLearning\DeepLearning\data" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -205,7 +329,12 @@
       <workItem from="1752807404142" duration="141000" />
       <workItem from="1752807551998" duration="3268000" />
       <workItem from="1752821523178" duration="1269000" />
-      <workItem from="1752829002484" duration="5696000" />
+      <workItem from="1752829002484" duration="10858000" />
+      <workItem from="1752890584901" duration="9855000" />
+      <workItem from="1752923478890" duration="7629000" />
+      <workItem from="1752978906687" duration="2904000" />
+      <workItem from="1753000427427" duration="4000" />
+      <workItem from="1753061510366" duration="985000" />
     </task>
     <task id="LOCAL-00001" summary="202408011035">
       <option name="closed" value="true" />
@@ -241,9 +370,9 @@
     <SUITE FILE_PATH="coverage/MachineLearning$collage_admition_sklearn.coverage" NAME="collage-admition-sklearn Coverage Results" MODIFIED="1737874654737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogisticRegression" />
     <SUITE FILE_PATH="coverage/MachineLearning$multiple_variables.coverage" NAME="multiple-variables Coverage Results" MODIFIED="1737529205042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinerRegression" />
     <SUITE FILE_PATH="coverage/MachineLearning$face_recognition.coverage" NAME="face_recognition Coverage Results" MODIFIED="1739774915129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineVision" />
-    <SUITE FILE_PATH="coverage/MachineLearning$MNIST.coverage" NAME="MNIST Coverage Results" MODIFIED="1730358693523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
-    <SUITE FILE_PATH="coverage/MachineLearning$neural_network_mnist.coverage" NAME="neural_network_mnist Coverage Results" MODIFIED="1738499898139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNerwork" />
     <SUITE FILE_PATH="coverage/MachineLearning$cnn_mnist.coverage" NAME="cnn_mnist Coverage Results" MODIFIED="1738498435627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
+    <SUITE FILE_PATH="coverage/MachineLearning$neural_network_mnist.coverage" NAME="neural_network_mnist Coverage Results" MODIFIED="1738499898139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNerwork" />
+    <SUITE FILE_PATH="coverage/MachineLearning$MNIST.coverage" NAME="MNIST Coverage Results" MODIFIED="1730358693523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
     <SUITE FILE_PATH="coverage/MachineLearning$sigmoid_function.coverage" NAME="sigmoid-function Coverage Results" MODIFIED="1737818328740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogisticRegression" />
     <SUITE FILE_PATH="coverage/MachineLearning$cnn_mnist_new.coverage" NAME="cnn_mnist_new Coverage Results" MODIFIED="1738500739441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
     <SUITE FILE_PATH="coverage/MachineLearning$display_mnist_data.coverage" NAME="display_mnist_data Coverage Results" MODIFIED="1738499475398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
@@ -254,6 +383,7 @@
     <SUITE FILE_PATH="coverage/MachineLearning$neural_network.coverage" NAME="neural_network Coverage Results" MODIFIED="1723707243250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNerwork" />
     <SUITE FILE_PATH="coverage/MachineLearning$2.coverage" NAME="2 Coverage Results" MODIFIED="1733804870644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNearestNeighbors" />
     <SUITE FILE_PATH="coverage/MachineLearning$train_face_recognition.coverage" NAME="train_face_recognition Coverage Results" MODIFIED="1739774829911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineVision" />
+    <SUITE FILE_PATH="coverage/ML_Notes$dataset_prepration.coverage" NAME="dataset-prepration Coverage Results" MODIFIED="1752985089740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ObjectDetection/PlantDoc" />
     <SUITE FILE_PATH="coverage/ML_Notes$seaborn_iris_data.coverage" NAME="seaborn-iris-data Coverage Results" MODIFIED="1752807491965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plot" />
     <SUITE FILE_PATH="coverage/MachineLearning$pytorch_mnist.coverage" NAME="pytorch_mnist Coverage Results" MODIFIED="1738549115784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
     <SUITE FILE_PATH="coverage/MachineLearning$ReLU.coverage" NAME="ReLU Coverage Results" MODIFIED="1723722612221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NeuralNerwork" />
@@ -266,6 +396,7 @@
     <SUITE FILE_PATH="coverage/MachineLearning$scikit_learn_solution.coverage" NAME="scikit-learn-solution Coverage Results" MODIFIED="1737528237198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinerRegression" />
     <SUITE FILE_PATH="coverage/MachineLearning$fashion_mnist_cnn.coverage" NAME="fashion_mnist_cnn Coverage Results" MODIFIED="1738905230794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning" />
     <SUITE FILE_PATH="coverage/MachineLearning$fruit_recognition_train.coverage" NAME="fruit_recognition_train Coverage Results" MODIFIED="1739779773034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineVision" />
+    <SUITE FILE_PATH="coverage/ML_Notes$MNIST.coverage" NAME="MNIST Coverage Results" MODIFIED="1753062633099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ConvolutionalNerualNetwork" />
     <SUITE FILE_PATH="coverage/MachineLearning$test.coverage" NAME="test Coverage Results" MODIFIED="1732609319494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KMeans" />
   </component>
 </project>

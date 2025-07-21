@@ -72,7 +72,7 @@ transform = transforms.Compose([
     transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
 ])
 
-dataset = LFWDataset(root_dir='E:/LearningProjects/MachineLearning/MachineVision/lfw', transform=transform)
+dataset = LFWDataset(root_dir='E:/LearningProjects/MachineLearning/ImageClassification/lfw', transform=transform)
 dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
 
 # 定义模型、损失函数和优化器

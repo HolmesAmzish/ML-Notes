@@ -1,4 +1,10 @@
-datasets/
-MachineVision/datasets
+ObjectDetection/VOC2007/datasets/
+ImageClassification/datasets
 DeepLearning/data/
 .venv
+
+# **/*.jpg
+# **/*.png
+**/*.pt
+
+**/datasets/*
