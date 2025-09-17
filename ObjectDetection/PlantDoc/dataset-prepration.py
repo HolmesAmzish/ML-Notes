@@ -62,9 +62,8 @@ def convert_csv_to_yolo(
 
 
 def prepare_yolo_dataset():
-    # -----------------------
+    
     # Read and split train/val
-    # -----------------------
     df = pd.read_csv(SRC_TRAIN_LABEL)
     class_names = sorted(df['class'].unique())
     class_to_id = {cls: i for i, cls in enumerate(class_names)}
@@ -76,16 +75,12 @@ def prepare_yolo_dataset():
     train_df = df[df['filename'].isin(train_images)]
     val_df = df[df['filename'].isin(val_images)]
 
-    # -----------------------
     # Convert all splits
-    # -----------------------
     convert_csv_to_yolo(train_df, SRC_TRAIN_IMG_DIR, DST_ROOT, "train", class_to_id)
     convert_csv_to_yolo(val_df, SRC_TRAIN_IMG_DIR, DST_ROOT, "val", class_to_id)
     convert_csv_to_yolo(SRC_TEST_LABEL, SRC_TEST_IMG_DIR, DST_ROOT, "test", class_to_id)
 
-    # -----------------------
-    # Write data.yaml
-    # -----------------------
+    # data.yaml
     yaml_path = DST_ROOT / "data.yaml"
     with open(yaml_path, "w") as f:
         f.write(f"train: {str(DST_ROOT / 'images/train')}\n")
